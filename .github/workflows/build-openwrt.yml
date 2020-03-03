@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt v5.0
+name: Build OpenWrt v6.0
 
 on:
   release:
